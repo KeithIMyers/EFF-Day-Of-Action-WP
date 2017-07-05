@@ -6,6 +6,7 @@ Author: Keith I Myers <https://kmyers.me>
 
 Description: This plugin adds the following JavaScript to your wordpress site.
 
+
 <!--[if !(lt IE 8)]><!-->
 <script type="text/javascript"> 
   // The defaults are set below
@@ -20,5 +21,7 @@ Description: This plugin adds the following JavaScript to your wordpress site.
   })();
 </script>
 <!--<![endif]-->
+
+
 
 This will display an EFF pro-Net Neutrality Banner on your website on July 12th of 2017 only. Read more at https://www.eff.org/deeplinks/2017/06/internet-activate-stand-net-neutrality-july-12
