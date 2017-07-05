@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       EFF Day of Action
  * Plugin URI:        https://www.eff.org/deeplinks/2017/06/internet-activate-stand-net-neutrality-july-12
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This plugin will display a message on July 12th to show your support for net neutraility. Please read more at https://www.eff.org/deeplinks/2017/06/internet-activate-stand-net-neutrality-july-12
  * Version:           1.0.0
  * Author:            Keith I Myers
  * Author URI:        https://kmyers.me
